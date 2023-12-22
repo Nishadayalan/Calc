@@ -164,8 +164,15 @@ Publish the website in the given URL.
 </html>
 
 ```
-
 ## OUTPUT:
+
+![Alt text](Nisha/calcapp/static/output1.png)
+
+
+
+
+![Alt text](Nisha/calcapp/static/output2.png)
+
 
 
 
