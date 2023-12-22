@@ -135,9 +135,16 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![Alt text](<Nisha/calcapp/static/Screenshot (113).png>)
 
-![Alt text](<Nisha/calcapp/static/Screenshot (114).png>)
+![Alt text](<Nisha/calcapp/static/Screenshot (115).png>)
+
+
+
+![Alt text](<Nisha/calcapp/static/Screenshot (116).png>)
+
+
+
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
