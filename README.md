@@ -65,7 +65,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <div id="calculator-container">
-        <h2><font color= "yellow"></fontcolor>NISHA.D</h2>
+        <h2><font color= "white"></fontcolor>NISHA.D</h2>
         <h3>212223230143</h3>
         <h2>CALCULATOR</h2>
 
@@ -135,12 +135,10 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-
-![Alt text](<Nisha/calcapp/static/Screenshot (115).png>)
-
+![Alt text](<Nisha/calcapp/static/Screenshot (117).png>)
 
 
-![Alt text](<Nisha/calcapp/static/Screenshot (116).png>)
+![Alt text](<Nisha/calcapp/static/Screenshot (118).png>)
 
 
 
